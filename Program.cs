@@ -7,6 +7,8 @@ namespace gitconsoleapp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Git App is ready");
+            Console.ReadLine();
         }
     }
 }

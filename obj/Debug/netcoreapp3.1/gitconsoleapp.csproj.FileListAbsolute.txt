@@ -1,0 +1,13 @@
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\bin\Debug\netcoreapp3.1\gitconsoleapp.exe
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\bin\Debug\netcoreapp3.1\gitconsoleapp.deps.json
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\bin\Debug\netcoreapp3.1\gitconsoleapp.runtimeconfig.json
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\bin\Debug\netcoreapp3.1\gitconsoleapp.runtimeconfig.dev.json
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\bin\Debug\netcoreapp3.1\gitconsoleapp.dll
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\bin\Debug\netcoreapp3.1\gitconsoleapp.pdb
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\obj\Debug\netcoreapp3.1\gitconsoleapp.csprojAssemblyReference.cache
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\obj\Debug\netcoreapp3.1\gitconsoleapp.AssemblyInfoInputs.cache
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\obj\Debug\netcoreapp3.1\gitconsoleapp.AssemblyInfo.cs
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\obj\Debug\netcoreapp3.1\gitconsoleapp.csproj.CoreCompileInputs.cache
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\obj\Debug\netcoreapp3.1\gitconsoleapp.dll
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\obj\Debug\netcoreapp3.1\gitconsoleapp.pdb
+C:\Amit Garg\RnDApplictaions\ConsoleApps\gitconsoleapp\obj\Debug\netcoreapp3.1\gitconsoleapp.genruntimeconfig.cache
